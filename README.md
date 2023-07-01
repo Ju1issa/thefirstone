@@ -1,2 +1,2 @@
 # thefirstone
-My firt repo
+My first repo
